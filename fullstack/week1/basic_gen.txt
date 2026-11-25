@@ -1,0 +1,4 @@
+AI prompt to help for generate simple website
+
+-----------------------------------------------
+ช่วย gen โค้ด HTML + Bootstrap ที่มีฟอร์มกรอกข้อมูล สำหรับกรอกข้อมูล "ระบบ buying and selling stock , etf เอาไว้สำหรับเก็บเเละคำนวณ tax" เก็บลง LocalStorage ของ web browser โดยให้คุณช่วยออกแบบให้หน่อยว่าควรมีฟิลด์อะไรบ้าง? สามารถรันแบบ offline บนคอมฯได้ และเป็น single file (index.html) สามารถ export เป็น csv/json ได้

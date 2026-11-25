@@ -1,0 +1,12 @@
+/*
+!/.gitignore
+!/scrapping/
+!/fullstack/
+
+node_modules/
+venv/
+.venv/
+__pycache__/
+.env
+
+.DS_Store
