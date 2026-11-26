@@ -1,0 +1,6 @@
+generate simple python flask website for drinks
+
+-----------------
+help me create website with python flask , website for sell drink in simple way with bootstrap card layout,
+
+imgs use url from internet and run in single file in app.py(also inculde html code inside) and use only flask library
